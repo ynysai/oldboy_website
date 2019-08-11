@@ -1,1 +1,6 @@
 This is my first git file.
+First time using git,excited! update...
+insert line hear... 改之前的
+第一次用git哈哈
+insert line again haha...
+加点新内容
